@@ -1,0 +1,66 @@
+body {
+  background: #F0F0ED;
+  color: rgb(20, 20, 20);
+  font-family: courier, monospace;
+  line-height: 1.3;
+}
+/*.background-green {
+  background-color: #F9FDE5;
+  opacity: 1;
+}*/
+
+.header-container {
+ padding: 50px;
+}
+.body-container {
+width: 60%;
+margin: 0 auto;
+}
+.text-green {
+  color:green;
+
+}
+.circle-image {
+border-radius: 50 150 px;
+}
+
+.block-centered {
+  width: 500px;         /*Set the width*/
+  margin: 0 auto;
+}
+/**/
+.card img {
+margin: 20px;
+}
+
+
+#profile-image {
+  width: 75px;
+  margin-left: 30px;
+  opacity: 0px;
+  border-radius: 90px;
+  display: inline-block;
+  opacity: 0px;
+}
+
+.header {
+  text-align: center;
+}
+
+.list-inline > li {
+text-align: center;
+display: inline-block;
+font-size: 12px;
+line-height: 16px;
+}
+
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: green;
+}
